@@ -1,4 +1,4 @@
-Password Generater V3
+Password Generater V4
 ---------------------
 
 Secure passwords are long, complex and hard to guess. This tool will generate passwords for you based on your personal key and the domain name for the website you want to access. 

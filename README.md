@@ -1,4 +1,4 @@
-# Password Generater V4
+# Password Generator V4
 
 Intro
 -----
@@ -24,7 +24,7 @@ Aside from the meager content provided, the all-in-one html file provides a simp
 
 * wrap it with a web framework to provide a quick-start website to explore packaging and deployment
 * refactor the existing code
-* abstract the code into remote functions, backend logic or microservices
+* abstract the code into remote functions, backend logic or micro services
 * improve the user experience or look and feel
 
 Granted, you could do this with any other content but feel free to use this as a starting point to have a "my first app" with a bit more utility than a simple "hello world" implementation.

@@ -28,3 +28,7 @@ Aside from the meager content provided, the all-in-one html file provides a simp
 * improve the user experience or look and feel
 
 Granted, you could do this with any other content but feel free to use this as a starting point to have a "my first app" with a bit more utility than a simple "hello world" implementation.
+
+New - Try It
+------------
+You can access the generator hosted on Github Pages [here](https://datatribe.github.io/passwordgen/PasswordGenV4.html)
